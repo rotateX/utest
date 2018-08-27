@@ -1,0 +1,14 @@
+2018-06-08 10:53:02,207 - Cannot choose from an empty sequence
+2018-06-08 11:00:07,397 - DEBUG - readcar(): Cannot choose from an empty sequence
+2018-06-08 11:00:55,679 - DEBUG - readcar(): Cannot choose from an empty sequence
+2018-06-08 11:34:40,585 - readcar - DEBUG - readcar(): Cannot choose from an empty sequence
+2018-06-11 16:09:45,655 - newplate - DEBUG - car_out(): [Errno 2] No such file or directory: 'e:/test//utest/plateno.txt'
+2018-06-11 16:09:47,627 - newplate - DEBUG - car_out(): [Errno 2] No such file or directory: 'e:/test//utest/plateno.txt'
+2018-06-11 16:09:49,555 - newplate - DEBUG - car_out(): [Errno 2] No such file or directory: 'e:/test//utest/plateno.txt'
+2018-08-16 14:16:15,457 - readcar - DEBUG - readcar(): Cannot choose from an empty sequence
+2018-08-16 14:16:20,704 - readcar - DEBUG - readcar(): Cannot choose from an empty sequence
+2018-08-16 14:16:26,960 - readcar - DEBUG - readcar(): Cannot choose from an empty sequence
+2018-08-16 14:16:30,376 - readcar - DEBUG - readcar(): Cannot choose from an empty sequence
+2018-08-16 14:41:43,770 - car_out - DEBUG - car_out(): {'title': '车辆出入测试', 'backend': 'win32', 'process': 4192}
+2018-08-16 14:41:48,922 - car_out - DEBUG - car_out(): {'title': '车辆出入测试', 'backend': 'win32', 'process': 4192}
+2018-08-16 14:41:54,074 - car_out - DEBUG - car_out(): {'title': '车辆出入测试', 'backend': 'win32', 'process': 4192}
